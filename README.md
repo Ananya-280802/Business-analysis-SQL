@@ -1,7 +1,21 @@
-# Business-analysis-SQL
-Project guidelines stated " RSVP Movies, an Indian film production company, plans to release a global movie in 2022. They have provided movie data from the past three years for analysis. As a data analyst and SQL expert, your job is to analyze this dataset and provide actionable insights to guide their new project.
-Key Steps:
-Objective: Use SQL to analyze the data, extract insights, and provide recommendations.
-Dataset: Analyze movie-related data from the past three years.
-Segments: The analysis is divided into four segments, with each segment focusing on specific insights derived from different table combinations.
-Deliverable: Write SQL queries to answer the questions for each segment and submit a single SQL script file with the solutions. "
+# 🗄️ SQL Business Analysis Queries
+
+This repository contains SQL practice queries focused on real-world business analysis scenarios.  
+The goal is to develop strong SQL fundamentals for analytics, reporting, and data-driven decision-making.
+
+## 🧰 Skills Covered
+- Filtering & sorting  
+- Aggregations and grouping  
+- JOIN operations  
+- Subqueries  
+- Case statements  
+- Analytical problem solving using SQL  
+
+## 🔍 What This Repository Demonstrates
+- Ability to query relational datasets  
+- Understanding of business metrics (sales, customers, performance metrics)  
+- Writing clean and structured SQL queries  
+- Applying SQL logic to practical analytics tasks  
+
+## 🎯 Purpose
+This repo was created while strengthening my SQL foundations for analytics roles, BI dashboards, and data-driven management projects.
